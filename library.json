@@ -1,0 +1,24 @@
+{
+    "name": "bstd-esp-idf",
+    "version": "1.0.0",
+    "description": "Some common utils for ESP32 IDF projects.",
+    "keywords": "std, esp-idf, utils, tools",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bakyno/bstd-esp-idf"
+    },
+    "authors": [
+        {
+            "name": "Ladislav Malacky-Bakay",
+            "email": "lmb@baky.sk",
+            "url": "https://www.linkedin.com/in/bakyno/"
+        }
+    ],
+    "license": "MIT",
+    "frameworks": [
+        "espidf"
+    ],
+    "platforms": [
+        "espressif32"
+    ]
+}
